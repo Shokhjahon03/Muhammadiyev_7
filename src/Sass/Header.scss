@@ -1,0 +1,72 @@
+.header {
+  padding-top: 25px;
+  padding-bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  hr {
+    background: #cbcbcb;
+  }
+  .ong {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    .logg {
+      padding-top: 5px;
+    }
+    a {
+      font-family: Inter;
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 27px;
+      letter-spacing: 0em;
+      text-align: left;
+      text-decoration: none;
+    }
+  }
+  .chap {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    .tt {
+      margin-top: -30px;
+      margin-right: -70px;
+      background: rgb(250, 72, 72);
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      padding-left: 6px;
+      color: #fff;
+    }
+    a {
+      font-family: Inter;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 27px;
+      letter-spacing: 0em;
+      text-align: left;
+      text-decoration: none;
+    }
+  }
+}
+.btn {
+  width: (121.49px);
+  height: (62.66px);
+  padding: 17.83px, 26.74px, 17.83px, 26.74px;
+  border-radius: 17.83px;
+  gap: 11.14px;
+  background: #6c5fbc;
+  color: white;
+  padding-top: 17px;
+  padding-left: 24px;
+}
+.btn:hover {
+  color: #fff;
+  background: #120371;
+  transition: 0.3s;
+}
+.button2:hover {
+  color: #fff;
+  background: #120371;
+  transition: 0.3s;
+}

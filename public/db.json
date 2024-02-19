@@ -1,0 +1,172 @@
+{
+  "prodacts": [
+    {
+      "id": 1,
+      "name": "Chicknpx Hell",
+      "brand": "Healthy",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#DAA31A",
+      "bg": "#f1d999",
+      "yurak": false
+    },
+    {
+      "id": 2,
+      "name": "Swe Dish",
+      "brand": "Trending",
+      "time": "34min",
+      "ball": "4.9",
+      "prace": "19",
+      "img": "public/2.png",
+      "color": "#FB471D",
+      "bg": "#f9b7a8",
+      "yurak": false
+    },
+    {
+      "id": 3,
+      "name": "Chicken Hell",
+      "brand": "Supreme",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#309D5B",
+      "bg": "#a4c4b1",
+      "yurak": true
+    },
+    {
+      "id": 4,
+      "name": "Chicknpx Hell",
+      "brand": "Healthy",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#DAA31A",
+      "bg": "#f1d999"
+    },
+    {
+      "id": 5,
+      "name": "Swe Dish",
+      "brand": "Trending",
+      "time": "34min",
+      "ball": "4.9",
+      "prace": "19",
+      "img": "public/2.png",
+      "color": "#FB471D",
+      "bg": "#f9b7a8"
+    },
+    {
+      "id": 6,
+      "name": "Chicken Hell",
+      "brand": "Supreme",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#309D5B",
+      "bg": "#a4c4b1"
+    },
+    {
+      "id": 7,
+      "name": "Chicknpx Hell",
+      "brand": "Healthy",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#DAA31A",
+      "bg": "#f1d999"
+    },
+    {
+      "id": 8,
+      "name": "Swe Dish",
+      "brand": "Trending",
+      "time": "34min",
+      "ball": "4.9",
+      "prace": "19",
+      "img": "public/2.png",
+      "color": "#FB471D",
+      "bg": "#f9b7a8"
+    },
+    {
+      "id": 9,
+      "name": "Chicken Hell",
+      "brand": "Supreme",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#309D5B",
+      "bg": "#a4c4b1"
+    },
+    {
+      "id": 10,
+      "name": "Chicknpx Hell",
+      "brand": "Healthy",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#DAA31A",
+      "bg": "#f1d999"
+    },
+    {
+      "id": 11,
+      "name": "Swe Dish",
+      "brand": "Trending",
+      "time": "34min",
+      "ball": "4.9",
+      "prace": "19",
+      "img": "public/2.png",
+      "color": "#FB471D",
+      "bg": "#f9b7a8"
+    },
+    {
+      "id": 12,
+      "name": "Chicken Hell",
+      "brand": "Supreme",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#309D5B",
+      "bg": "#a4c4b1"
+    },
+    {
+      "id": 13,
+      "name": "Chicknpx Hell",
+      "brand": "Healthy",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#DAA31A",
+      "bg": "#f1d999"
+    },
+    {
+      "id": 14,
+      "name": "Swe Dish",
+      "brand": "Trending",
+      "time": "34min",
+      "ball": "4.9",
+      "prace": "19",
+      "img": "public/2.png",
+      "color": "#FB471D",
+      "bg": "#f9b7a8"
+    },
+    {
+      "id": 15,
+      "name": "Chicken Hell",
+      "brand": "Supreme",
+      "time": "24min",
+      "ball": "4.8",
+      "prace": "12",
+      "img": "public/3.png",
+      "color": "#309D5B",
+      "bg": "#a4c4b1"
+    }
+  ]
+}
